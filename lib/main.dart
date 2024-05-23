@@ -147,7 +147,7 @@ class _MatchListScreenState extends State<MatchListScreen> {
                       date: '15 July 2020',
                       team1Logo: 'assets/images/bayern.png',
                       team2Logo: 'assets/images/dortmund.png',
-                      score: '69 : 0',
+                      score: '8 : 1',
                     ),
                     // Add more cards here if needed
                   ],
