@@ -1,5 +1,6 @@
 # live score bola
-![image](https://github.com/faridfadhlan666/Live-Score-Bola/assets/162896380/60081447-2d4c-4449-b7f8-ce355eaccd77)
+![image](https://github.com/faridfadhlan666/Live-Score-Bola/assets/162896380/1d043f6a-6071-4381-85ad-e9cfd3bbbdf4)
+
 ![image](https://github.com/faridfadhlan666/Live-Score-Bola/assets/162896380/161acadb-41cb-47f2-8c93-d05a6b251139)
 
 
