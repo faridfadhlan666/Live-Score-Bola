@@ -147,7 +147,7 @@ class _MatchListScreenState extends State<MatchListScreen> {
                       date: '15 July 2020',
                       team1Logo: 'assets/images/bayern.png',
                       team2Logo: 'assets/images/dortmund.png',
-                      score: '8 : 1',
+                      score: '8 : 0',
                     ),
                     // Add more cards here if needed
                   ],
@@ -290,7 +290,7 @@ class LiveScoreScreen extends StatelessWidget {
                       width: 50,
                       height: 50,
                     ),
-                    Text('Persib'),
+                    Text('Arsenal'),
                   ],
                 ),
                 RichText(
@@ -323,7 +323,7 @@ class LiveScoreScreen extends StatelessWidget {
             ListTile(
               leading: CircleAvatar(
                 backgroundImage: AssetImage(
-                  'assets/images/dybala.png',
+                  'assets/images/dybala.jpg',
                 ),
               ),
               title: Text('Top Player'),
